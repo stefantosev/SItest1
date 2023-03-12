@@ -1,6 +1,7 @@
 #pragma once
 
 #include <cstdint>
+//risot pravi skripta za league ?
 
 namespace offsets {
 	namespace GameObject {
