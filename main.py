@@ -1,2 +1,13 @@
 for i in range(0,20):
-    printf(i*i)
+    print(i*i)
+
+
+
+
+def troll(name):
+    print(f'Time to troll: {name}')
+
+
+
+
+troll("Hexodian")
