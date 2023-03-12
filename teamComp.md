@@ -1,1 +1,5 @@
-Darius\nRek'Sai\nKatarina\nAphelios\nPyke 
+Darius
+Rek'Sai
+Katarina
+Aphelios
+Pyke 
